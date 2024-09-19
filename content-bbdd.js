@@ -1,7 +1,7 @@
 const content = [
     {
         id: 1,
-        name: "triages",
+        name: "triage",
         icon: "triage-icon-80x80.png",
         title: "Triage is first aid for your inbox.",
         description: "Everything you loved about the original Triage is back - only better. Download Triage 2 on the App Store today.",
